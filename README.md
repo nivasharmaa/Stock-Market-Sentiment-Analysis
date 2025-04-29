@@ -15,9 +15,9 @@ Our goal is to investigate whether financial news sentiment correlates with — 
   - News sentiment is a key driver of investor behavior.  
   - If a reliable link exists, it enables sentiment-driven trading strategies.  
 - **Key research questions:**  
-  1. How accurately can news sentiment predict daily stock changes?  
-  2. What is the impact of positive vs. negative headlines?  
-  3. Do some stocks react more strongly to news sentiment?  
+  - How accurately can news sentiment predict daily stock changes?  
+  - What is the impact of positive vs. negative headlines?  
+  - Do some stocks react more strongly to news sentiment?  
 - **Prior work:**  
   - Existing studies show mixed results depending on data sources, timeframes, and methods.  
   - Our contribution: apply the analysis to recent real-world data and a modern NLP pipeline.
